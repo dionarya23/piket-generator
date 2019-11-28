@@ -1,0 +1,19 @@
+{
+  "name": "piket-cl",
+  "version": "1.0.1",
+  "description": "Generator untuk jadwal piket Codelabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dion Arya Pamungkas",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionarya23/piket-generator.git"
+  },
+  "homepage": "https://github.com/dionarya23/piket-generator"
+}
