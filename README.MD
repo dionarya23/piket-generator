@@ -27,6 +27,6 @@ const anggota = [{
 
 const jumlahHariDalamBulan = 30
 const monthYear = '12-2019' //Desember 2019
-const result = jadwalPiket(anggota, jumlahHariDalamBulan, monthYear)
+const result = generate(anggota, jumlahHariDalamBulan, monthYear)
 
 ```

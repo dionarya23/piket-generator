@@ -1,6 +1,6 @@
 {
   "name": "piket-cl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generator untuk jadwal piket Codelabs",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,5 @@
     "type": "git",
     "url": "git+https://github.com/dionarya23/piket-generator.git"
   },
-  "homepage": "https://github.com/dionarya23/piket-generator",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "homepage": "https://github.com/dionarya23/piket-generator"
 }
