@@ -15,5 +15,6 @@
     "type": "git",
     "url": "git+https://github.com/dionarya23/piket-generator.git"
   },
-  "homepage": "https://github.com/dionarya23/piket-generator"
+  "homepage": "https://github.com/dionarya23/piket-generator",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

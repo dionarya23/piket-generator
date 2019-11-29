@@ -1,4 +1,4 @@
-# Jadwal Pikel Generator
+# Jadwal Piket Generator
 Jadwal Piket untuk Codelabs
 
 ## Cara Install
